@@ -56,4 +56,4 @@ Ensured high availability through multi-AZ deployment and automated instance pro
 #### Outputs: alb_dns_name = "node-app-alb-886000499.eu-central-1.elb.amazonaws.com"
 
 
-## Real-World Improvements: Add HTTPS by using ACM certicate and listener on port 443
+### 🎯🚀 Real-World Improvements: Add HTTPS by using ACM certicate and listener on port 443
