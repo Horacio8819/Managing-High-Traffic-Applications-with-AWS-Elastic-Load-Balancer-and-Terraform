@@ -8,7 +8,7 @@
 ## An Application Load Balancer with a public-facing listener on port 80
 
 ### resource "aws_lb_listener" "http"
-- LB Listener listen to the traffic coming from ALB forward it to lb_target_group 
+- LB Listener listen to the traffic coming from ALB and forward it to lb_target_group 
  
 ## A Target Group configured for HTTP health checks
 
